@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadFahlefy
 - 👀 I’m interested in front end 
-- 🌱 I’m currently learning Vue or Next JS
+- 🌱 I’m currently learning some javascript framework
 - 💞️ I’m looking to collaborate on several projects so that I can grow
 
 <!---
